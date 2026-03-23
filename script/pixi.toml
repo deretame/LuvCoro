@@ -1,0 +1,9 @@
+[workspace]
+authors = []
+channels = ["conda-forge"]
+name = "script"
+platforms = ["win-64", "linux-64", "linux-aarch64"]
+version = "0.1.0"
+
+[dependencies]
+python = "3.11.*"

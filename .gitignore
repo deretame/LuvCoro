@@ -1,0 +1,6 @@
+build*/
+cmake-build-*/
+
+# Pulled by script/bootstrap.py
+third_party/**/*
+.cache/**/*

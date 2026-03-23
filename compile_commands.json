@@ -1,0 +1,770 @@
+[
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\runtime.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\runtime.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/runtime.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/runtime.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\dns.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\dns.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/dns.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/dns.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\fs.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\fs.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/fs.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/fs.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\fs_watch.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\fs_watch.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/fs_watch.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/fs_watch.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\pipe.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\pipe.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/pipe.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/pipe.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\process.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\process.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/process.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/process.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\signal.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\signal.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/signal.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/signal.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\tcp.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\tcp.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/tcp.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/tcp.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro.dir\\src\\udp.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\src\\udp.cpp",
+  "file": "D:/Project/cpp/LuvCoro/src/udp.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro.dir/src/udp.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_blocking_roundtrip.dir\\examples\\blocking_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\blocking_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/blocking_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_blocking_roundtrip.dir/examples/blocking_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_blocking_parallel.dir\\examples\\blocking_parallel.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\blocking_parallel.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/blocking_parallel.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_blocking_parallel.dir/examples/blocking_parallel.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_blocking_cancel.dir\\examples\\blocking_cancel.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\blocking_cancel.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/blocking_cancel.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_blocking_cancel.dir/examples/blocking_cancel.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_dns_lookup.dir\\examples\\dns_lookup.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\dns_lookup.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/dns_lookup.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_dns_lookup.dir/examples/dns_lookup.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_pipe_roundtrip.dir\\examples\\pipe_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\pipe_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/pipe_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_pipe_roundtrip.dir/examples/pipe_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_process_roundtrip.dir\\examples\\process_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\process_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/process_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_process_roundtrip.dir/examples/process_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_roundtrip.dir\\examples\\message_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_roundtrip.dir/examples/message_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_bounded.dir\\examples\\message_bounded.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_bounded.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_bounded.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_bounded.dir/examples/message_bounded.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_pressure.dir\\examples\\message_pressure.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_pressure.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_pressure.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_pressure.dir/examples/message_pressure.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_iteration.dir\\examples\\message_iteration.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_iteration.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_iteration.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_iteration.dir/examples/message_iteration.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_async_iteration.dir\\examples\\message_async_iteration.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_async_iteration.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_async_iteration.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_async_iteration.dir/examples/message_async_iteration.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_async_foreach.dir\\examples\\message_async_foreach.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_async_foreach.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_async_foreach.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_async_foreach.dir/examples/message_async_foreach.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_async_foreach_parallel.dir\\examples\\message_async_foreach_parallel.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_async_foreach_parallel.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_async_foreach_parallel.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_async_foreach_parallel.dir/examples/message_async_foreach_parallel.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_async_timeout_iteration.dir\\examples\\message_async_timeout_iteration.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_async_timeout_iteration.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_async_timeout_iteration.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_async_timeout_iteration.dir/examples/message_async_timeout_iteration.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_async_cancel.dir\\examples\\message_async_cancel.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_async_cancel.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_async_cancel.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_async_cancel.dir/examples/message_async_cancel.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_message_select.dir\\examples\\message_select.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\message_select.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/message_select.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_message_select.dir/examples/message_select.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_timer_roundtrip.dir\\examples\\timer_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\timer_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/timer_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_timer_roundtrip.dir/examples/timer_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_signal_roundtrip.dir\\examples\\signal_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\signal_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/signal_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_signal_roundtrip.dir/examples/signal_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_sync_roundtrip.dir\\examples\\sync_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\sync_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/sync_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_sync_roundtrip.dir/examples/sync_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_cancel_timeout.dir\\examples\\cancel_timeout.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\cancel_timeout.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/cancel_timeout.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_cancel_timeout.dir/examples/cancel_timeout.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_structured_scope.dir\\examples\\structured_scope.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\structured_scope.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/structured_scope.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_structured_scope.dir/examples/structured_scope.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_spawn_detached.dir\\examples\\spawn_detached.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\spawn_detached.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/spawn_detached.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_spawn_detached.dir/examples/spawn_detached.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_spawn_logged.dir\\examples\\spawn_logged.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\spawn_logged.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/spawn_logged.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_spawn_logged.dir/examples/spawn_logged.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_spawn_timer.dir\\examples\\spawn_timer.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\spawn_timer.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/spawn_timer.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_spawn_timer.dir/examples/spawn_timer.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_spawn_periodic.dir\\examples\\spawn_periodic.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\spawn_periodic.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/spawn_periodic.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_spawn_periodic.dir/examples/spawn_periodic.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_io_cancel.dir\\examples\\io_cancel.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\io_cancel.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/io_cancel.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_io_cancel.dir/examples/io_cancel.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_echo_client.dir\\examples\\tcp_echo_client.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\tcp_echo_client.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/tcp_echo_client.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_echo_client.dir/examples/tcp_echo_client.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_tcp_echo_server.dir\\examples\\tcp_echo_server.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\tcp_echo_server.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/tcp_echo_server.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_tcp_echo_server.dir/examples/tcp_echo_server.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_tcp_roundtrip.dir\\examples\\tcp_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\tcp_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/tcp_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_tcp_roundtrip.dir/examples/tcp_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_udp_echo_server.dir\\examples\\udp_echo_server.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\udp_echo_server.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/udp_echo_server.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_udp_echo_server.dir/examples/udp_echo_server.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_udp_echo_client.dir\\examples\\udp_echo_client.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\udp_echo_client.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/udp_echo_client.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_udp_echo_client.dir/examples/udp_echo_client.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_udp_multicast_sender.dir\\examples\\udp_multicast_sender.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\udp_multicast_sender.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/udp_multicast_sender.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_udp_multicast_sender.dir/examples/udp_multicast_sender.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_udp_multicast_receiver.dir\\examples\\udp_multicast_receiver.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\udp_multicast_receiver.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/udp_multicast_receiver.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_udp_multicast_receiver.dir/examples/udp_multicast_receiver.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_udp_roundtrip.dir\\examples\\udp_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\udp_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/udp_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_udp_roundtrip.dir/examples/udp_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_fs_roundtrip.dir\\examples\\fs_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\fs_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/fs_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_fs_roundtrip.dir/examples/fs_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_fs_watch_roundtrip.dir\\examples\\fs_watch_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\fs_watch_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/fs_watch_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_fs_watch_roundtrip.dir/examples/fs_watch_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/include -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/third_party/libuv/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o CMakeFiles\\luvcoro_sendfile_roundtrip.dir\\examples\\sendfile_roundtrip.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\examples\\sendfile_roundtrip.cpp",
+  "file": "D:/Project/cpp/LuvCoro/examples/sendfile_roundtrip.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/CMakeFiles/luvcoro_sendfile_roundtrip.dir/examples/sendfile_roundtrip.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\fs-poll.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\fs-poll.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/fs-poll.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/fs-poll.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\idna.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\idna.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/idna.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/idna.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\inet.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\inet.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/inet.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/inet.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\random.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\random.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/random.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/random.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\strscpy.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\strscpy.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/strscpy.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/strscpy.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\strtok.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\strtok.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/strtok.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/strtok.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\thread-common.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\thread-common.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/thread-common.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/thread-common.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\threadpool.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\threadpool.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/threadpool.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/threadpool.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\timer.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\timer.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/timer.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/timer.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\uv-common.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\uv-common.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/uv-common.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/uv-common.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\uv-data-getter-setters.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\uv-data-getter-setters.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/uv-data-getter-setters.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/uv-data-getter-setters.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\version.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\version.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/version.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/version.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\async.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\async.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/async.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/async.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\core.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\core.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/core.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/core.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\detect-wakeup.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\detect-wakeup.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/detect-wakeup.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/detect-wakeup.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\dl.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\dl.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/dl.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/dl.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\error.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\error.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/error.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/error.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\fs.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\fs.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/fs.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/fs.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\fs-event.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\fs-event.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/fs-event.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/fs-event.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\getaddrinfo.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\getaddrinfo.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/getaddrinfo.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/getaddrinfo.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\getnameinfo.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\getnameinfo.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/getnameinfo.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/getnameinfo.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\handle.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\handle.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/handle.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/handle.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\loop-watcher.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\loop-watcher.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/loop-watcher.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/loop-watcher.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\pipe.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\pipe.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/pipe.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/pipe.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\thread.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\thread.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/thread.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/thread.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\poll.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\poll.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/poll.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/poll.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\process.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\process.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/process.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/process.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\process-stdio.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\process-stdio.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/process-stdio.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/process-stdio.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\signal.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\signal.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/signal.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/signal.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\snprintf.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\snprintf.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/snprintf.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/snprintf.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\stream.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\stream.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/stream.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/stream.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\tcp.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\tcp.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/tcp.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/tcp.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\tty.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\tty.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/tty.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/tty.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\udp.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\udp.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/udp.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/udp.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\util.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\util.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/util.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/util.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\winapi.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\winapi.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/winapi.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/winapi.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DBUILDING_UV_SHARED=1 -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -Duv_EXPORTS -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv.dir\\src\\win\\winsock.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\winsock.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/winsock.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv.dir/src/win/winsock.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\fs-poll.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\fs-poll.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/fs-poll.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/fs-poll.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\idna.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\idna.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/idna.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/idna.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\inet.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\inet.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/inet.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/inet.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\random.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\random.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/random.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/random.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\strscpy.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\strscpy.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/strscpy.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/strscpy.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\strtok.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\strtok.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/strtok.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/strtok.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\thread-common.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\thread-common.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/thread-common.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/thread-common.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\threadpool.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\threadpool.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/threadpool.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/threadpool.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\timer.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\timer.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/timer.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/timer.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\uv-common.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\uv-common.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/uv-common.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/uv-common.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\uv-data-getter-setters.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\uv-data-getter-setters.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/uv-data-getter-setters.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/uv-data-getter-setters.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\version.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\version.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/version.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/version.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\async.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\async.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/async.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/async.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\core.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\core.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/core.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/core.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\detect-wakeup.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\detect-wakeup.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/detect-wakeup.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/detect-wakeup.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\dl.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\dl.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/dl.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/dl.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\error.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\error.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/error.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/error.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\fs.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\fs.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/fs.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/fs.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\fs-event.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\fs-event.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/fs-event.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/fs-event.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\getaddrinfo.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\getaddrinfo.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/getaddrinfo.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/getaddrinfo.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\getnameinfo.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\getnameinfo.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/getnameinfo.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/getnameinfo.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\handle.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\handle.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/handle.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/handle.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\loop-watcher.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\loop-watcher.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/loop-watcher.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/loop-watcher.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\pipe.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\pipe.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/pipe.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/pipe.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\thread.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\thread.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/thread.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/thread.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\poll.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\poll.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/poll.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/poll.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\process.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\process.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/process.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/process.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\process-stdio.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\process-stdio.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/process-stdio.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/process-stdio.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\signal.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\signal.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/signal.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/signal.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\snprintf.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\snprintf.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/snprintf.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/snprintf.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\stream.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\stream.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/stream.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/stream.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\tcp.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\tcp.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/tcp.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/tcp.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\tty.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\tty.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/tty.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/tty.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\udp.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\udp.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/udp.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/udp.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\util.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\util.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/util.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/util.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\winapi.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\winapi.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/winapi.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/winapi.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang.exe -DWIN32_LEAN_AND_MEAN -D_CRT_DECLARE_NONSTDC_NAMES=0 -D_WIN32_WINNT=0x0A00 -ID:/Project/cpp/LuvCoro/third_party/libuv/include -ID:/Project/cpp/LuvCoro/third_party/libuv/src -g -std=gnu11 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o third_party\\libuv\\CMakeFiles\\uv_a.dir\\src\\win\\winsock.c.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libuv\\src\\win\\winsock.c",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libuv/src/win/winsock.c",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libuv/CMakeFiles/uv_a.dir/src/win/winsock.c.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\detail\\task_self_deleting.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\detail\\task_self_deleting.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/detail/task_self_deleting.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/detail/task_self_deleting.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\condition_variable.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\condition_variable.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/condition_variable.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/condition_variable.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\default_executor.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\default_executor.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/default_executor.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/default_executor.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\event.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\event.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/event.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/event.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\mutex.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\mutex.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/mutex.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/mutex.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\semaphore.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\semaphore.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/semaphore.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/semaphore.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\sync_wait.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\sync_wait.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/sync_wait.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/sync_wait.cpp.obj"
+},
+{
+  "directory": "D:/Project/cpp/LuvCoro/build",
+  "command": "D:\\msys2\\ucrt64\\bin\\clang++.exe -ID:/Project/cpp/LuvCoro/third_party/libcoro/include -ID:/Project/cpp/LuvCoro/build/third_party/libcoro/include -g -std=c++20 -fexceptions -Wall -Wextra -pipe -o third_party\\libcoro\\CMakeFiles\\libcoro.dir\\src\\thread_pool.cpp.obj -c D:\\Project\\cpp\\LuvCoro\\third_party\\libcoro\\src\\thread_pool.cpp",
+  "file": "D:/Project/cpp/LuvCoro/third_party/libcoro/src/thread_pool.cpp",
+  "output": "D:/Project/cpp/LuvCoro/build/third_party/libcoro/CMakeFiles/libcoro.dir/src/thread_pool.cpp.obj"
+}
+]
